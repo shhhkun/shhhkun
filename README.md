@@ -1,10 +1,18 @@
-## Welcome to my repo!
+# Serjo Barron | Full Stack Developer
 
-👋 Hi I'm Serjo, a Software Developer from California.
+👋 Hi there! I’m Serjo, a Software Developer based in California, focused on creating interactive, high-performance applications.
 
-💭 I'm interested in fullstack and web development/technologies.
+### Currently Focused on...
 
-🖥️ You can find more about me, my projects, and resume [on my website](https://serjo.vercel.app).
+| **Activity** | **Detail** | 
+| :--- | :--- | 
+| 🔭 **Working On** | Always starting new projects, coding with the latest tools and patterns, and actively seeking inspiration to evolve my systems and design skills. | 
+| 🌱 **Solidifying** | Mastering component architecture and state management using modern **React/Next.js patterns (via JSX)** for flexible and scalable front-ends. | 
+| 🛠️ **Core Stack** | Next.js, Express.js, Node.js, PostgreSQL/SQL. (Backed by systems-level expertise in C/C++, embedded systems, and network communication). |
+
+### Find Me
+
+🖥️ You can explore my projects, latest work, and resume [on my website](https://serjo.vercel.app).
 
 📧 Feel free to reach out to me at serjobarron@gmail.com.
 
