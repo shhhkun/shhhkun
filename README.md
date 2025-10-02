@@ -1,4 +1,4 @@
-# Serjo Barron | Full Stack Developer
+## Serjo Barron | Full Stack Developer
 
 👋 Hi there! I’m Serjo, a Software Developer based in California, focused on creating interactive, high-performance applications.
 
