@@ -1,4 +1,12 @@
-## Hi there 👋
+## Welcome to my repo!
+
+👋 Hi I'm Serjo, a Software Developer from California.
+
+💭 I'm interested in fullstack and web development/technologies.
+
+🖥️ You can find more about me, my projects, and resume [on my website](https://serjo.vercel.app).
+
+📧 Feel free to reach out to me at serjobarron@gmail.com.
 
 <!--
 **shhhkun/shhhkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
